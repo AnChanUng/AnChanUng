@@ -20,10 +20,3 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
-
----
-
-<p align="center">
-  💼 Passionate developer eager to take on new challenges. <br>
-  💌 Feel free to reach out anytime!
-</p>
