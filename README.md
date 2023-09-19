@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">👨‍💻 안찬웅의 GitHub</h1>
+<p align="center">안녕하세요, 열정 가득한 개발자 안찬웅입니다.</p>
 
-<!--
-**AnChanUng/AnChanUng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📜 Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 System Software Lab
+- **Duration**: `September 2022` - `December 2023`
+
+### 🌟 KB_IT'S Your Life 4기
+- **Duration**: `July 3, 2023` - `September 25, 2023`
+
+---
+
+## ⚙️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">
+  💼 Passionate developer eager to take on new challenges. <br>
+  💌 Feel free to reach out anytime!
+</p>
