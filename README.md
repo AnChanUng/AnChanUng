@@ -10,7 +10,9 @@
 
 ### 🌟 KB_IT'S Your Life 4기
 - **Duration**: `July 3, 2023` - `September 25, 2023`
-
+ 
+### 🎓 Dankook University
+- **Duration**: 'March 2016' - 'February 2024'
 ---
 
 ## ⚙️ Tech Stack
@@ -19,4 +21,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
+  <img src="https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira-software&logoColor=white"/>
+</p> 
