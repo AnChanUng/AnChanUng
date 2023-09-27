@@ -8,7 +8,7 @@
 ### 🚀 System Software Lab
 - **Duration**: `September 2022` - `December 2023`
 
-### 🌟 KB_IT'S Your Life 4기 
+### 🌟 KB_IT'S Your Life 4기 (최우수상)
 - **Duration**: `July 3, 2023` - `September 25, 2023`
  
 ### 🎓 Dankook University
