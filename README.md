@@ -6,13 +6,13 @@
 ## 📜 Experience
 
 ### 🚀 System Software Lab
-- **Duration**: `September 2022` - `December 2023`
+- **Duration**: 2022.09 ~ 2023.12
 
 ### 🌟 KB_IT'S Your Life 4기 (최우수상)
-- **Duration**: `July 3, 2023` - `September 25, 2023`
+- **Duration**: 2023.07.03 ~ 2023.09.25
  
 ### 🎓 Dankook University
-- **Duration**: 'March 2016' - 'February 2024'
+- **Duration**: 2016.03 ~ 2024.02
 ---
 
 ## ⚙️ Tech Stack
