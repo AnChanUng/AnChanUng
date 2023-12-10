@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 안찬웅의 GitHub</h1>
-<p align="center">안녕하세요. 백엔드 개발자 안찬웅입니다.</p>
+<p align="center">안녕하세요, 백엔드 개발자 안찬웅입니다.</p>
 
 ---
 
