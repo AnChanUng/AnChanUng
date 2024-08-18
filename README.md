@@ -1,5 +1,5 @@
 
-## Experience.
+## Experience
 - 우리FISA 3기 (2024.07.08 ~ 2024.12.18)
 - KB국민은행 디지털 서포터즈 수서역지점 (2024.01.02 ~ 2024.03.01)
 - KB국민은행_IT's Your Life 4기 (2023.07.03 ~ 2023.09.25)
@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira-software&logoColor=white"/>
 </p>
+
+## 회고
+https://cookie.tistory.com/89
+https://cookie.tistory.com/102
 
 ## Certificate
 - 정보처리기사 - 한국산업인력공단 
