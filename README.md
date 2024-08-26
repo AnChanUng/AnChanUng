@@ -23,6 +23,7 @@
 ## 자격증
 - 정보처리기사 - 한국산업인력공단 
 - SQL 개발자 (SQLD) - 한국데이터산업진흥원 (2024.06.21)
+- 토익스피킹
 
 ## 알고리즘
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1stevering)](https://solved.ac/1stevering/)
