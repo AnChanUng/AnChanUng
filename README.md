@@ -16,10 +16,6 @@
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira-software&logoColor=white"/>
 </p>
 
-## Memory
-- [2022년 회고](https://cookie.tistory.com/89)
-- [2023년 회고](https://cookie.tistory.com/102)
-
 ## Certifications
 - 정보처리기사 - 한국산업인력공단 
 - SQL 개발자 (SQLD) - 한국데이터산업진흥원 (2024.06.21)
