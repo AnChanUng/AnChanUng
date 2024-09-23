@@ -19,7 +19,7 @@
 ## Certifications
 - 정보처리기사 - 한국산업인력공단 (2024.09.10)
 - SQL 개발자 (SQLD) - 한국데이터산업진흥원 (2024.06.21)
-- OPic im1 (2024.09.18)
+- OPic IM1 (2024.09.18)
 
 ## Algorithms
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1stevering)](https://solved.ac/1stevering/)
