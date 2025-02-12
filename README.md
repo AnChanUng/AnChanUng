@@ -2,8 +2,7 @@
 문제의 본질에 집중하여 다양한 방법으로 문제를 해결합니다.
 
 ## Work
-- (주)데이터스트림즈 Server Engineer, intern (2025.02 ~ 2025.05)
-
+- (주)데이터스트림즈 Server Engineer, intern (2025.02 ~ 2025.04)
 ## Education
 - 우리FISA 3기 (2024.07 ~ 2024.12)
 - KB국민은행 IT's Your LIfe 4기 (2023.07 ~ 2023.09)
