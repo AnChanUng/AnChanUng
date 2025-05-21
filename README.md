@@ -12,3 +12,9 @@
 - :link:[링크드인](https://www.linkedin.com/feed/)
 - :pencil:[블로그](https://cookie.tistory.com/)
 - :e-mail:[이메일](1stevering@naver.com)
+
+## 회고
+- [2024년](https://cookie.tistory.com/133)
+- [2023년](https://cookie.tistory.com/102)
+- [2022년-하반기](https://cookie.tistory.com/91)
+- [2022년-상반기](https://cookie.tistory.com/89)
