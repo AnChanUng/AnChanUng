@@ -4,7 +4,7 @@
 본질에 입각해 다양한 방법으로 문제를 해결합니다.
 
 ## Work
-- (주)데이터스트림즈 기술연구소 Server Engineer, intern (2025.02 ~ 2025.04)
+- (주)데이터스트림즈 기술연구소 Server developer, intern (2025.02 ~ 2025.06)
 ## Education
 - 단국대학교 소프트웨어학과 (2016.03 ~ 2024.02)
 
@@ -14,7 +14,9 @@
 - :e-mail:[이메일](1stevering@naver.com)
 
 ## 회고
-- [2024년](https://cookie.tistory.com/133)
-- [2023년](https://cookie.tistory.com/102)
-- [2022년-하반기](https://cookie.tistory.com/91)
-- [2022년-상반기](https://cookie.tistory.com/89)
+> 초심을 잃지 않기 위해, 모든연령과 소통하기 위해
+- 28살 [2025년](https://cookie.tistory.com/140) - 작성중
+- 27살 [2024년](https://cookie.tistory.com/133)
+- 26살 [2023년](https://cookie.tistory.com/102)
+- 25살 [2022년-2](https://cookie.tistory.com/94)
+- 25살 [2022년-1](https://cookie.tistory.com/89)
