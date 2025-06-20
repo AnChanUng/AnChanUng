@@ -5,7 +5,7 @@
 
 ## Work
 - (주)데이터스트림즈 기술연구소 Server Developer, researcher (2025.06.14 ~ ing)
-- (주)데이터스트림즈 기술연구소 Server Developer, intern　　 (2025.02.03 ~ 2025.06.13)
+- (주)데이터스트림즈 기술연구소 Server Developer, intern (2025.02.03 ~ 2025.06.13)
 ## Education
 - 단국대학교 소프트웨어학과 (2016.03 ~ 2024.02)
 
