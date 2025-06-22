@@ -15,7 +15,7 @@
 - :e-mail:[이메일](1stevering@naver.com)
 
 ## 회고
-> 초심을 잃지 않기 위해, 모든연령과 소통하기 위해
+> 그때는 무슨생각을 했었더라
 - 28살 [2025년](https://cookie.tistory.com/145)
 - 27살 [2024년](https://cookie.tistory.com/133)
 - 26살 [2023년](https://cookie.tistory.com/102)
