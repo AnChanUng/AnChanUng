@@ -16,7 +16,7 @@
 
 ## 회고
 > 초심을 잃지 않기 위해, 모든연령과 소통하기 위해
-- 28살 [2025년](https://cookie.tistory.com/140) - 작성중
+- 28살 [2025년](https://cookie.tistory.com/145)
 - 27살 [2024년](https://cookie.tistory.com/133)
 - 26살 [2023년](https://cookie.tistory.com/102)
 - 25살 [2022년-2](https://cookie.tistory.com/94)
