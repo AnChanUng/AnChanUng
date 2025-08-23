@@ -15,5 +15,4 @@
 - 28살 [2025년](https://cookie.tistory.com/145)
 - 27살 [2024년](https://cookie.tistory.com/133)
 - 26살 [2023년](https://cookie.tistory.com/102)
-- 25살 [2022년-2](https://cookie.tistory.com/94)
-- 25살 [2022년-1](https://cookie.tistory.com/89)
+- 25살 [2022년](https://cookie.tistory.com/89)
