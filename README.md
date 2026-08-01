@@ -22,3 +22,7 @@
 
 ## Blog
 - [[Oracle] NLS_CHARACTERSET과 NLS_NCHAR_CHARACTERSET 차이](https://cookie.tistory.com/173)
+
+## Etc
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%B0%AC%EC%9B%85-%EC%95%88-505655261/)
+[![tistory](https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white)](https://cookie.tistory.com)
