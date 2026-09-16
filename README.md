@@ -2,7 +2,7 @@
 
 - (주)에스앤디 | 서버 개발자 (계약직) (2026.01 ~ 2026.06) 
 - (주)데이터스트림즈 | 서버 개발자 (인턴 / 정규직) (2025.02 ~ 2025.11)
-- (주)KB국민은행 | 디지털 서포터즈 (인턴) (2024.01 ~ 2024.02)
+- (주)KB국민은행 | 디지털 서포터즈 (계약직) (2024.01 ~ 2024.02)
 
 ## Education
 
@@ -20,8 +20,12 @@
 - SQLD
 - 정보처리기사
 
+## 운영중인 웹사이트
+
+[![Algorithm Study](https://img.shields.io/badge/Algorithm_Study-000000?style=flat-square&logo=vercel&logoColor=white)](https://algorithm-study-eight.vercel.app)
+[![CS Study](https://img.shields.io/badge/CS_Study-000000?style=flat-square&logo=vercel&logoColor=white)](https://cs-study-platform.vercel.app)
+
 ## Etc
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=githubpages&logoColor=white)](https://anchanung.github.io/portfolio/)
-[![Algorithm Study](https://img.shields.io/badge/Algorithm_Study-000000?style=flat-square&logo=vercel&logoColor=white)](https://algorithm-study-eight.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%B0%AC%EC%9B%85-%EC%95%88-505655261/)
 [![tistory](https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white)](https://cookie.tistory.com)
