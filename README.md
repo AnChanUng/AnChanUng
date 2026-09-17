@@ -20,12 +20,9 @@
 - SQLD
 - 정보처리기사
 
-## 운영중인 웹사이트
-
-[![Algorithm Study](https://img.shields.io/badge/Algorithm_Study-000000?style=flat-square&logo=vercel&logoColor=white)](https://algorithm-study-eight.vercel.app)
-[![CS Study](https://img.shields.io/badge/CS_Study-000000?style=flat-square&logo=vercel&logoColor=white)](https://cs-study-platform.vercel.app)
-
 ## Etc
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=githubpages&logoColor=white)](https://anchanung.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%B0%AC%EC%9B%85-%EC%95%88-505655261/)
 [![tistory](https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white)](https://cookie.tistory.com)
+[![Algorithm Study](https://img.shields.io/badge/Algorithm_Study-000000?style=flat-square&logo=vercel&logoColor=white)](https://algorithm-study-eight.vercel.app)
+[![CS Study](https://img.shields.io/badge/CS_Study-000000?style=flat-square&logo=vercel&logoColor=white)](https://cs-study-platform.vercel.app)
