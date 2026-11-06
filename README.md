@@ -17,10 +17,7 @@
 - SW 특성화 장학금 (2022.12)
 
 ## Certifications
-- AWS SAA-C03
-- ADsP
-- SQLD
-- 정보처리기사
+- 정보처리기사, AWS SAA-C03, SQLD, ADsP
 
 ## Etc
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=githubpages&logoColor=white)](https://anchanung.github.io/portfolio/)
