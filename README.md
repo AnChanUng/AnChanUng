@@ -15,7 +15,7 @@
 - 단국대학교 소프트웨어학과 (2024.02 졸업)
 
 ### Certifications
-- 정보처리기사, AWS SAA, SQLD, ADsP
+- 정보처리기사, SQLD, ADsP, AWS SAA-C03
 
 ### Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=githubpages&logoColor=white)](https://anchanung.github.io/portfolio/)
